@@ -1,4 +1,4 @@
-# innoboksi
+# Innoboksi
 Innovation toolbox for youth work.
 
 --> Read more about Innoksi (Innobox) from website https://www.verke.org/material/innobox/?lang=en
