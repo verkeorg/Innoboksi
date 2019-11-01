@@ -8,7 +8,9 @@ Innobox is a toolkit that helps youth workers innovate new practices in a longer
 The purpose of Innobox is to provide support and assistance when it becomes necessary to develop operations and create something new.
 
 ## Mikä on Innoboksi?
-Lue lisää Innoboksista https://www.innoboksi.fi
+Lue lisää Innoboksista http://www.innoboksi.fi
+
+Innoboksin tarkoituksena on tukea ja olla apuna, kun ilmenee tarvetta kehittää omaa toimintaa ja luoda jotain uutta. Näillä sivuilla on materiaalia Innoboksi työskentelyn tueksi ja avuksi.
 
 ## Toteutuneet innovaatio-ideat - Kerro omasi! 
 https://github.com/verkeorg/Innoboksi/issues/3
