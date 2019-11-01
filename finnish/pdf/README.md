@@ -1,5 +1,5 @@
 # Painokelpoiset versiot Innoboksista 
-OheisetPDF tiedostot ovat painovalmiit tiedostot Innoboksista. Muokattavat version löydät finnish/indesign kansiosta.
+Oheiset PDF tiedostot ovat painovalmiit tiedostot Innoboksista. Muokattavat version löydät finnish/indesign kansiosta.
 
 # Innoboksin sisältämät materiaalit
 
@@ -11,7 +11,7 @@ OheisetPDF tiedostot ovat painovalmiit tiedostot Innoboksista. Muokattavat versi
 5. Tarra kanteen
 
 ### Muut tavarat  
-6. Sitran Megatrendikortit pakkauksessa
+6. [Sitran Megatrendikortit pakkauksessa](https://www.sitra.fi/julkaisut/megatrendikortit/) 
 7. Kuulakärkikynä
 8. Post-it-laput
 9. Suklaapatukka 
