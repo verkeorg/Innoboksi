@@ -3,6 +3,7 @@ You are welcome to translate The Innobox.
 We only ask you to make available publicly.
 
 **Help**
+
 A possibly way to translate the posters:
 
 1. [clone the repository](https://github.com/verkeorg/innoboksi/english)
