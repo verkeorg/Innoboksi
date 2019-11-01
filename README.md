@@ -4,6 +4,9 @@ Innovation toolbox for youth work.
 ## What is Innobox 
 Read more about Innobokksi (Innobox) from website https://www.verke.org/material/innobox/?lang=en
 
+Innobox is a toolkit that helps youth workers innovate new practices in a longer process.
+The purpose of Innobox is to provide support and assistance when it becomes necessary to develop operations and create something new.
+
 ## Mikä on Innoboksi?
 Lue lisää Innoboksista https://www.innoboksi.fi
 
