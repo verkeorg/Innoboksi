@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: INNOBOKSI_Saatekirje_195x128.indd
+PUBLICATION NAME: letter_195x128_fi.indd
 
 PACKAGE DATE: 27.10.2019 14.28
 Creation Date: 27.10.2019
@@ -82,7 +82,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. INNOBOKSI_Saatekirje_195x128.indd; type: Adobe InDesign publication; size: 780K
+1. letter_195x128_fi.indd; type: Adobe InDesign publication; size: 780K
 2. Whitney-Black.otf; type: Font file; size: 26K
 3. Whitney-Light.otf; type: Font file; size: 26K
 4. Whitney-LightItalic.otf; type: Font file; size: 27K
