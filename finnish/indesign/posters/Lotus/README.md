@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: INNOBOKSI_Lotus_21x21_(FI+ENG)_tulostukseen.indd
+PUBLICATION NAME: Lotus_21x21.indd
 
 PACKAGE DATE: 13.9.2019 18.38
 Creation Date: 13.9.2019
@@ -78,6 +78,6 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. INNOBOKSI_Lotus_21x21_(FI+ENG)_tulostukseen.indd; type: Adobe InDesign publication; size: 900K
+1. Lotus_21x21.indd; type: Adobe InDesign publication; size: 900K
 2. Whitney-Black.otf; type: Font file; size: 26K
 3. Whitney-Medium.otf; type: Font file; size: 26K
