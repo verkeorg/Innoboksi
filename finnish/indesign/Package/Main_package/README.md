@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: INNOBOKSI_ulkopakkaus_PAINO.indd
+PUBLICATION NAME: main_package.indd
 
 PACKAGE DATE: 17.10.2019 13.55
 Creation Date: 17.10.2019
@@ -84,7 +84,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. INNOBOKSI_ulkopakkaus_PAINO.indd; type: Adobe InDesign publication; size: 824K
+1. main_package.indd; type: Adobe InDesign publication; size: 824K
 2. Whitney-Black.otf; type: Font file; size: 26K
 3. Whitney-Book.otf; type: Font file; size: 26K
 4. Whitney-Medium.otf; type: Font file; size: 26K
