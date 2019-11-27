@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: INNOBOKSI_Tarra_PAINO.indd
+PUBLICATION NAME: sticker_96x184.indd
 
 PACKAGE DATE: 28.10.2019 11.45
 Creation Date: 28.10.2019
@@ -80,5 +80,5 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. INNOBOKSI_Tarra_PAINO.indd; type: Adobe InDesign publication; size: 736K
+1. sticker_96x184.indd; type: Adobe InDesign publication; size: 736K
 2. Whitney-Black.otf; type: Font file; size: 26K
