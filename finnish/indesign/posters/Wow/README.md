@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: INNOBOKSI_WOW+Yhdistelmä+vaikutus_(FI+ENG).indd
+PUBLICATION NAME: WOW_420x420.indd
 
 PACKAGE DATE: 13.9.2019 18.47
 Creation Date: 13.9.2019
@@ -79,7 +79,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. INNOBOKSI_WOW+Yhdistelmä+vaikutus_(FI+ENG).indd; type: Adobe InDesign publication; size: 1012K
+1. WOW_420x420.indd; type: Adobe InDesign publication; size: 1012K
 2. Whitney-Black.otf; type: Font file; size: 26K
 3. Whitney-Book.otf; type: Font file; size: 26K
 4. Whitney-Medium.otf; type: Font file; size: 26K
