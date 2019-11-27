@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: INNOBOKSI_tehtäväkirja_kannet.indd
+PUBLICATION NAME: exercise_book_cover_fi.indd
 
 PACKAGE DATE: 27.10.2019 16.09
 Creation Date: 27.10.2019
@@ -83,7 +83,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. INNOBOKSI_tehtäväkirja_kannet.indd; type: Adobe InDesign publication; size: 960K
+1. exercise_book_cover_fi.indd; type: Adobe InDesign publication; size: 960K
 2. Whitney-Black.otf; type: Font file; size: 26K
 3. Whitney-BookItalic.otf; type: Font file; size: 27K
 4. Whitney-Light.otf; type: Font file; size: 26K
