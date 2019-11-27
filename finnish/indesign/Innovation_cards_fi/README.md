@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: INNOBOKSI_Innovaatiokortit.indd
+PUBLICATION NAME: cards_fi.indd
 
 PACKAGE DATE: 13.9.2019 14.27
 Creation Date: 13.9.2019
@@ -90,7 +90,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. INNOBOKSI_Innovaatiokortit.indd; type: Adobe InDesign publication; size: 3268K
+1. cards_fi.indd; type: Adobe InDesign publication; size: 3268K
 2. FFDin; type: Font file; size: 39K
 3. FFDingbests; type: Font file; size: 12K
 4. MinionPro-Regular.otf; type: Font file; size: 180K
