@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: INNOBOKSI_Canvas_(FI+ENG).indd
+PUBLICATION NAME: Canvas_A2.indd
 
 PACKAGE DATE: 13.9.2019 18.19
 Creation Date: 13.9.2019
@@ -79,7 +79,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. Canvas.indd; type: Adobe InDesign publication; size: 932K
+1. Canvas_A2.indd; type: Adobe InDesign publication; size: 932K
 2. Whitney-Black.otf; type: Font file; size: 26K
 3. Whitney-Book.otf; type: Font file; size: 26K
 4. Whitney-Medium.otf; type: Font file; size: 26K
