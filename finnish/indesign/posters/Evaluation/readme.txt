@@ -80,7 +80,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. INNOBOKSI_Arviointilomake_A4_(FI+ENG).indd; type: Adobe InDesign publication; size: 796K
+1. evaluation.indd; type: Adobe InDesign publication; size: 796K
 2. FFDin; type: Font file; size: 39K
 3. FFDingbests; type: Font file; size: 12K
 4. Whitney-Black.otf; type: Font file; size: 26K
