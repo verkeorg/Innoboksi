@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: INNOBOKSI_korttipakkaus_PAINO.indd
+PUBLICATION NAME: card_package.indd
 
 PACKAGE DATE: 17.10.2019 17.02
 Creation Date: 17.10.2019
@@ -85,7 +85,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. INNOBOKSI_korttipakkaus_PAINO.indd; type: Adobe InDesign publication; size: 1016K
+1. card_package.indd; type: Adobe InDesign publication; size: 1016K
 2. MinionPro-Regular.otf; type: Font file; size: 180K
 3. Whitney-Black.otf; type: Font file; size: 26K
 4. Whitney-Medium.otf; type: Font file; size: 26K
